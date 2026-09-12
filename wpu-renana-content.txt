@@ -1,4 +1,5 @@
 renana konten pu
-
+ *ES6
+*Frameworks
 - javascript
 - PHP Framworks
