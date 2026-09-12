@@ -1,6 +1,9 @@
 renana konten pu
- *ES6
-*Frameworks
+ * ES6
+ * Frameworks
+    - Vue
+    - React
  * struktur dasar
 - javascript
 - PHP Framworks
+    - Laravel
